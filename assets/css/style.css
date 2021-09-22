@@ -1,0 +1,36 @@
+body{
+	margin: auto;
+}
+.face{
+	margin: 30px;
+	height: 150px;
+}
+.insta{
+	margin: 30px;
+	height: 150px;
+}
+.maps{
+	margin: 30px;
+	height: 150px;
+}
+
+.Contatos{
+	margin: auto;
+}
+.copyright{
+	text-align: center;
+	color: #2E2E2E;
+}
+.whats{
+	float: left;
+	color: #6E6E6E;
+}
+.foto{
+	height: 200px;
+	width: 200px;
+	margin: 10px;
+	border: 2px solid #ccc;
+}
+.menu{
+	font-size: 20px;
+}
